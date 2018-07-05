@@ -61,8 +61,6 @@
      <Compile Include="Assets\Common\SplashAbout\LoadingScreen.cs" />
      <Compile Include="Assets\Common\TapHandler.cs" />
      <Compile Include="Assets\Common\TrackableSettings.cs" />
-     <Compile Include="Assets\Devil_Dog\05_Script\ButtonController.cs" />
-     <Compile Include="Assets\Devil_Dog\05_Script\ButtonManager.cs" />
      <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Astronaut.cs" />
      <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Augmentation.cs" />
      <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Drone.cs" />
@@ -91,14 +89,12 @@
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
      <None Include="Assets\SamplesResources\Shaders\OverlayMesh.shader" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\image_targets.xml" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
-     <None Include="Assets\Devil_Dog\06_ReadMe\Devil_Dog_Animation.txt" />
      <None Include="Assets\SamplesResources\Shaders\BlackMask.shader" />
-     <None Include="Assets\Devil_Dog\06_ReadMe\Create.txt" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\image_targets.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\SamplesResources\Shaders\GroundBlend.shader" />
  <Reference Include="Facebook.Unity.Settings">

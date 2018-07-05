@@ -45,16 +45,8 @@ MonoBehaviour:
   databaseLoad:
     dataSetsToLoad:
     - image_targets
-    - VuforiaMars_VuMark
-    - VuforiaMars_Object_OT
-    - VuforiaMars_ModelTarget
-    - VuforiaMars_Images
     dataSetsToActivate:
     - image_targets
-    - VuforiaMars_VuMark
-    - VuforiaMars_Object_OT
-    - VuforiaMars_ModelTarget
-    - VuforiaMars_Images
   videoBackground:
     clippingMode: 0
     numDivisions: 2
